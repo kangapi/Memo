@@ -47,3 +47,9 @@
 `<a href="Le lien">Le texte afficher</a>`
 #### Page du site
 `<a href="dossier/nomDuFichier.html">Texte à afficher</a>`
+#### Vers une ancre
+`<h2 id="mon_ancre">Titre</h2>` Mettre un id à l'élément
+
+`<a href="#mon_ancre">Aller vers l'ancre</a>` Lien vers l'élément
+#### Info bulle
+`<a href="Le lien" title="Info bulle">Le texte afficher</a>`
