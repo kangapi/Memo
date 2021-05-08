@@ -11,18 +11,18 @@
   </body>
 </html>
 ```
-## Useful tags
-### Titles
+## Balises les plus utiles
+### Titres
 `<h1>`
 `<h2>`
 `<h3>`
 `<h4>`
 `<h5>`
 `<h6>`
-### Paragraphs
+### Paragraphe
 `<p>`
 ### Markdown
-`<br />` When you want to go to the line
+`<br />` Aller à la ligne
 
 `<em>`Italiques
 
@@ -42,3 +42,8 @@
     <li>Cerises</li>
 </ul>
 ```
+### Liens
+#### Page web
+`<a href="Le lien">Le texte afficher</a>`
+#### Page du site
+`<a href="dossier/nomDuFichier.html">Texte à afficher</a>`
