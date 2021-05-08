@@ -53,3 +53,5 @@
 `<a href="#mon_ancre">Aller vers l'ancre</a>` Lien vers l'élément
 #### Info bulle
 `<a href="Le lien" title="Info bulle">Le texte afficher</a>`
+#### Telechargez un fichier
+`<a href="monfichier.zip">Télécharger le fichier</a>`
