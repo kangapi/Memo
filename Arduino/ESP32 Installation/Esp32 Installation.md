@@ -6,3 +6,4 @@ Installer le [driver usb](https://github.com/Kangourou812/Liste-Aide/raw/main/Ar
 ### Rechercher `ESP32` dans le gestionnaire de carte et l'installer.
 ![Préférence de Arduino](https://github.com/Kangourou812/Liste-Aide/raw/main/Arduino/ESP32%20Installation/Gestionnaire%20de%20carte.png)
 ## Utiliser la carte `WEMOS LOLIN32` avec le port `/dev/cu.SLAB_USBtoART`
+![Type de carte et port](https://github.com/Kangourou812/Liste-Aide/raw/main/Arduino/ESP32%20Installation/Screen%20Carte%20et%20Port.png)
