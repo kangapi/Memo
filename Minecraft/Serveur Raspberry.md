@@ -11,4 +11,4 @@
 ## Lancer la version
 ``sudo java -Xmx[ram max en G ou M] -jar /home/minecraft/spigot-[version].jar nogui``
 ## Accepter les conditions d’utilisation
-``sudo sed -i 's/false/true/g' eula.txt```
+``sudo sed -i 's/false/true/g' eula.txt``
